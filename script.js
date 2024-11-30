@@ -9,7 +9,6 @@ const unitData = [
 		originalPrice: 24,
 		options: [
 			{ id: 1, size: ['S', 'M', 'L', 'XL'], color: ['Black', 'White', 'Red'] },
-			{ id: 2, size: ['S', 'M', 'L', 'XL'], color: ['Black', 'White', 'Red'] },
 		],
 	},
 	{
@@ -35,6 +34,7 @@ const unitData = [
 		options: [
 			{ id: 1, size: ['S', 'M', 'L', 'XL'], color: ['Black', 'White', 'Red'] },
 			{ id: 2, size: ['S', 'M', 'L', 'XL'], color: ['Black', 'White', 'Red'] },
+			{ id: 3, size: ['S', 'M', 'L', 'XL'], color: ['Black', 'White', 'Red'] },
 		],
 	},
 ];
